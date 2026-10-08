@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-model-order-settings
+      name: '@local/dsh-model-order-settings'
+      config: {}
